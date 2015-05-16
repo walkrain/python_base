@@ -1,0 +1,6 @@
+1.vi hello.py
+ add #!/usr/bin/env python
+ and then print...
+ python hello.py
+2.chmod a+x hello.py
+ ./hello.py
