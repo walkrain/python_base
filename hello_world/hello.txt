@@ -4,3 +4,13 @@
  python hello.py
 2.chmod a+x hello.py
  ./hello.py
+
+
+3.git wiki
+ git remote add origin git@github.com:walkrain/python_base.git
+ git push -u origin master    ---u remote master branch link with local master branch
+
+after that 
+ you can just use:
+ git push origin master
+ to push your commit
